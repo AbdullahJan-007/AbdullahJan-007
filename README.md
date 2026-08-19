@@ -45,4 +45,4 @@ More on GitHub — C++ fundamentals and tooling practice live in the rest of the
 ## Connect
 
 Open to full-stack engineering roles and collaborations.
-[LinkedIn](linkedin.com/in/abdullah-jan)
+[LinkedIn](https://www.linkedin.com/in/abdullah-jan-128587343)
