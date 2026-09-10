@@ -1,48 +1,95 @@
-# Abdullah Jan
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Abdullah%20Jan&fontSize=55&fontColor=ffffff&animationp"/>
+</p>
 
-Full-Stack Engineer · Next.js · TypeScript · PostgreSQL
+<h2 align="center">Aspiring Software Engineer | Full Stack Developer</h2>
 
-I build full-stack web products that don't feel like a first draft.
+<p align="center">
+Building scalable web applications with modern technologies.
+</p>
 
-CS student with a C++ and OOP foundation, now shipping production apps on Next.js, TypeScript, PostgreSQL, and Prisma. Currently running three concurrent full-stack internships — CodifyPros, M Tech Production & Marketing, and Codiora House.
+<p align="center">
+<a href="https://www.linkedin.com/in/abdullah-jan-128587343">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoe"/>
+</a>
+</p>
 
-I don't collect tools. I develop judgment.
+---
+
+## About Me
+
+Computer Science student with hands-on experience in Full Stack Development through multiple internships and production-ready projects.
+
+Skilled in designing and developing modern web applications using Next.js, React.js, TypeScript, PostgreSQL, MongoDB, and Prisma ORM.
+
+Passionate about building scalable software, solving real-world problems, and continuously improving as a software engineer.
+
+---
 
 ## Tech Stack
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=white)
-![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-000000?style=flat-square&logo=prisma&logoColor=white)
-![CPP](https://img.shields.io/badge/CPP-000000?style=flat-square&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,postgres,mongodb,prisma,tailwind,cpp,gitp"/>
+</p>
 
-## Featured
+---
 
-| Project | What it does |
-|---|---|
-| **[RSC Sentinel](https://github.com/AbdullahJan-007/rsc-sentinel)** | Rule-based diagnostic engine for Next.js — catches caching, render, and network failures with severity-scored triage and a live dashboard. |
-| **[Cache Inspector Scan](https://github.com/AbdullahJan-007/Cache-Inspector-Scan)** | Zero-dependency CLI that scans Next.js projects for caching bugs. Version-aware across Next.js 14–16, CI-ready. |
-| **[AETHER](https://github.com/AbdullahJan-007/AETHER-Advanced-Polyglot-AI-Systems-Agent)** | Full-stack AI systems agent on Next.js, running on Groq's LLaMA 3.3 70B. |
-| **[Portfolio Management System](https://github.com/AbdullahJan-007/Portfolio-Manager)** | Full-stack platform on Next.js, TypeScript, PostgreSQL — JWT auth, role-based access, deployed on Vercel. |
-| **[Signal](https://github.com/AbdullahJan-007/Themeable-Dashboard)** | Analytics dashboard with a production-grade theming system. |
-| **[Multi-Tenant SaaS Dashboard](https://github.com/AbdullahJan-007/Multi-Tenant-SaaS-Dashboard)** | Dashboard supporting isolated data and views per organization. |
+## Featured Projects
 
-More on GitHub — C++ fundamentals and tooling practice live in the rest of the repos below.
+### 🚀 Portfolio Management System
+Full-stack portfolio management platform featuring secure authentication, role-based access control, and investment tracking.
 
-## Activity
+**Tech:** Next.js • TypeScript • PostgreSQL • Prisma ORM
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
+---
+
+### 🚀 Multi-Tenant SaaS Dashboard
+Scalable SaaS application with tenant isolation, secure user management, and role-based authorization.
+
+**Tech:** Next.js • TypeScript • PostgreSQL • Prisma ORM
+
+---
+
+### 🚀 RSC Sentinel
+Developer-focused diagnostic tool for analyzing and optimizing React Server Component performance.
+
+**Tech:** Next.js • TypeScript • React.js
+
+---
+
+### 🚀 AETHER AI Agent
+AI-powered full-stack assistant designed for intelligent workflow automation and productivity enhancement.
+
+**Tech:** Next.js • TypeScript • AI APIs
+
+---
+
+## Experience Highlights
+
+- Completed multiple Full Stack Development internships.
+- Built production-ready web applications using modern technologies.
+- Developed scalable SaaS and portfolio management solutions.
+- Worked with REST APIs, authentication systems, databases, and cloud deployment workflows.
+
+---
+
+
+## Current Focus
+
+- Full Stack Development
+- Software Engineering
+- Scalable Web Applications
+- System Design Fundamentals
+- Modern JavaScript Ecosystem
+
+---
 
 ## Connect
 
-Open to full-stack engineering roles and collaborations.
-[LinkedIn](https://www.linkedin.com/in/abdullah-jan-128587343)
+📩 Open to internships, collaboration opportunities, and entry-level Software Engineering roles.
+
+🔗 LinkedIn: https://www.linkedin.com/in/abdullah-jan-128587343
+
+---
+
+> Build useful things. Keep learning. Stay consistent.
