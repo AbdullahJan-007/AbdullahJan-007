@@ -36,28 +36,28 @@ Passionate about building scalable software, solving real-world problems, and co
 
 ## Featured Projects
 
-### 🚀 Portfolio Management System
+### Portfolio Management System
 Full-stack portfolio management platform featuring secure authentication, role-based access control, and investment tracking.
 
 **Tech:** Next.js • TypeScript • PostgreSQL • Prisma ORM
 
 ---
 
-### 🚀 Multi-Tenant SaaS Dashboard
+### Multi-Tenant SaaS Dashboard
 Scalable SaaS application with tenant isolation, secure user management, and role-based authorization.
 
 **Tech:** Next.js • TypeScript • PostgreSQL • Prisma ORM
 
 ---
 
-### 🚀 RSC Sentinel
+### RSC Sentinel
 Developer-focused diagnostic tool for analyzing and optimizing React Server Component performance.
 
 **Tech:** Next.js • TypeScript • React.js
 
 ---
 
-### 🚀 AETHER AI Agent
+### AETHER AI Agent
 AI-powered full-stack assistant designed for intelligent workflow automation and productivity enhancement.
 
 **Tech:** Next.js • TypeScript • AI APIs
